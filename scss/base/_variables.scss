@@ -1,0 +1,45 @@
+/*===== GOOGLE FONTS =====*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+:root {
+    /*===== VARIABLES CSS =====*/
+    --header-height: 9.375rem;
+    --font-light: 300;
+    --font-regular: 400;
+    --font-medium: 500;
+    --font-semi: 600;
+    --font-bold: 700;
+
+    /*===== Colores =====*/
+    --first-color: #0c0a5d;
+    --second-color: #100f2e;
+    --accent-color: #ff9543;
+    --white-color: #ffffff;
+
+    /*===== Tipografia =====*/
+    --Poppins: "Poppins", sans-serif;
+    --OpenSans: "Open Sans", sans-serif;
+    --big-font-size: 4.5rem;
+    --h2-font-size: 2.8125rem;
+    --h3-font-size: 1.875rem;
+    --normal-font-size: 0.938rem;
+    // @media screen and (min-width: 768px) {
+    //     --big-font-size: 3.5rem;
+    //     --h2-font-size: 2rem;
+    //     --normal-font-size: 1rem;
+    // }
+
+    /*===== Margenes =====*/
+    --mb-1: 0.5rem;
+    --mb-2: 1rem;
+    --mb-3: 1.5rem;
+    --mb-4: 2rem;
+    --mb-5: 2.5rem;
+    --mb-6: 3rem;
+    /*===== z index =====*/
+    --z-back: -10;
+    --z-normal: 1;
+    --z-tooltip: 10;
+    --z-fixed: 100;
+}
