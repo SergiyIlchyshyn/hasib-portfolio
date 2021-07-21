@@ -1,3 +1,13 @@
+/*===== BASE =====*/
 @import "base/variables";
 @import "base/reset";
-@import "base/style";
+@import "base/buttons";
+@import "base/grid";
+/*===== LAYOUT =====*/
+@import "layout/header";
+@import "layout/home";
+@import "layout/about";
+@import "layout/skills";
+@import "layout/work";
+@import "layout/contact";
+@import "layout/footer";
